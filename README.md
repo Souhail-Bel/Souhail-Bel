@@ -15,10 +15,10 @@
 </div>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=souhail-bel&theme=dracula" alt="souhail-bel" />
+<img src="https://github-profile-trophy.vercel.app/?username=souhail-bel" alt="trophies graph" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=souhail-bel&theme=dracula" alt="souhail-bel" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=souhail-bel&theme=dracula" alt="streak" /></p>
 
 
 <h3 align="left">🛠 Languages and Tools:</h3>
