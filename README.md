@@ -1,7 +1,8 @@
 <h1 align="center">Greetings, internauts, I am Souhail Ben Belhassen!</h1>
 <h3 align="center">I'm a curious guy, with passion for mathematics, physics and computer science.</h3>
-
+<!--
 - 🚀 I’m currently working on **making an NES emulator, step by step, starting from understanding how microprocessors working with the CHIP8**
+-->
 
 - 🌱 I’m currently learning **how the world works, and where I can further develop my skills**
 
