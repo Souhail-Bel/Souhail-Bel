@@ -1,0 +1,37 @@
+name: Metrics
+on:
+  # daily update
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # is secret, shhhhh
+          token: ${{ secrets.METRICS_TOKEN }}
+
+
+          user: souhail-bel
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Tunis
+
+          
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_limit: 8
+          
+          # my streakkkk
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # my achievements yooo
+          plugin_achievements: yes
+          plugin_achievements_display: compact
