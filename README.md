@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/souhail-bel/souhail-bel/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://raw.githubusercontent.com/souhail-bel/souhail-bel/main/github-metrics.svg" alt="Metrics" width="100%">
 
 - 🌱 I’m currently learning **how the world works.**
 - 📫 How to reach me: **souhail.ben.belhassen@gmail.com** <a href="mailto:souhail.ben.belhassen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -46,8 +46,17 @@
   <a href="https://unity.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
+  <a href="https://godotengine.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
+  </a>
   <a href="https://www.blender.org/" target="_blank">
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  </a>
+  <a href="https://krita.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" alt="krita" width="40" height="40"/>
+  </a>
+  <a href="https://www.aseprite.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/aseprite/aseprite-icon.svg" alt="aseprite" width="40" height="40"/>
   </a>
   <a href="https://www.qt.io/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
