@@ -1,11 +1,12 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/souhail-bel/souhail-bel/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
 
 - 🌱 I’m currently learning **how the world works.**
 - 📫 How to reach me: **souhail.ben.belhassen@gmail.com** <a href="mailto:souhail.ben.belhassen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-</div>
 
 <br/>
 
