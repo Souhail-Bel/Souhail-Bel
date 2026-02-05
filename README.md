@@ -13,7 +13,7 @@
 and my sincerest apologies about the broken trophies display :P
 
 <div align="center">
-  <img src="https://github.com/souhail-bel/souhail-bel/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/souhail-bel/souhail-bel/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 
