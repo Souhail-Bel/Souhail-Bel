@@ -56,7 +56,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" alt="krita" width="40" height="40"/>
   </a>
   <a href="https://www.aseprite.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/aseprite/aseprite-icon.svg" alt="aseprite" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" alt="aseprite" width="40" height="40"/>
   </a>
   <a href="https://www.qt.io/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>

@@ -18,7 +18,7 @@ jobs:
 
 
           user: souhail-bel
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Tunis
           config_animation: yes
