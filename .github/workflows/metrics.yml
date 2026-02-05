@@ -31,18 +31,3 @@ jobs:
           plugin_languages_ignored: >-
             html, css
           plugin_languages_limit: 8
-
-          # my streakkkk
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          # my achievements yooo
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 8
-
-          plugin_lines: yes
-
-          plugin_monkeytype: yes
-          plugin_monkeytype_user: loom_0
